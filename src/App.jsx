@@ -401,7 +401,7 @@ function App() {
             <div>
               <h4 className="font-semibold text-white mb-4 text-sm uppercase tracking-wider">Connect</h4>
               <ul className="space-y-2 text-sm">
-                <li><span className="hover:text-white transition-colors cursor-pointer">Instagram</span></li>
+                <li><a href="https://www.instagram.com/running_with_maxwell?igsh=N3ZxODVxbzlwaWM3&utm_source=qr" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Instagram</a></li>
                 <li><span className="hover:text-white transition-colors cursor-pointer">Strava Club</span></li>
                 <li><span className="hover:text-white transition-colors cursor-pointer">YouTube</span></li>
               </ul>
